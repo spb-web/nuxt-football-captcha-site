@@ -1,0 +1,3 @@
+{
+  "buildCommand": "nuxt build && cp -R footballCaptchaAssets-0 .vercel/output/functions/__nitro.func/footballCaptchaAssets-0 && cp -R footballCaptchaAssets-1 .vercel/output/functions/__nitro.func/footballCaptchaAssets-1"
+}

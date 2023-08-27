@@ -1,0 +1,26 @@
+{
+  "name": "nuxt-football-captcha-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@iconify-json/ri": "^1.1.12",
+    "@nuxt/devtools": "latest",
+    "@nuxtjs/tailwindcss": "^6.8.0",
+    "nuxt": "^3.7.0",
+    "unplugin-icons": "^0.16.5"
+  },
+  "dependencies": {
+    "@nuxt-themes/typography": "^1.0.1",
+    "@vercel/node": "^3.0.3",
+    "@vueuse/nuxt": "^10.4.1",
+    "nuxt-football-captcha": "0.0.0-l",
+    "vue-confetti-explosion": "^1.0.2"
+  }
+}
